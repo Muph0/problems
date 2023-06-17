@@ -1,0 +1,9 @@
+
+There are two stacks of cards letters 'A' ... 'Z'. You can only take from the
+top of the stacks and place them face down on a single pile. You must take all
+the cards and put them to the pile, you can only decide from which stact to
+take, one card at a time.
+
+Construct the pile in such way that when you take if from the table and flip it
+face up, it is a lexicographically minimal pile from all the possible piles you
+could have constructed.
